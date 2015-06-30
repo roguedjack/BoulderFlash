@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="16"/>
+  <property name="name" value="Intermission 2"/>
+  <property name="theme" value="BLUE"/>
+  <property name="timer" value="15"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzt0UEKgDAMRNF4pbpKb+Cy97+MFRRKqa2xTBCZxSerkAcJIhI+nua2XJxIgb5l0njsrkBfKu5YjXrOBP7vG2NpQ/73umUx1rYI9lmMLZuH74nxzubl6xl7Nk9fyziyeftq48iG9DHGGGN/awfw5rMJ
+  </data>
+ </layer>
+</map>

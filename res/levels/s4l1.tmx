@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="36"/>
+  <property name="name" value="Cave D. Butterflies"/>
+  <property name="theme" value="BLUE"/>
+  <property name="timer" value="120"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNljsSwCAIRM2RNJW5Se5/kdg4k3FQFgWxoAm6PhY/SSGEdHhcJR4icuf7SiCadUzl02bTqmvE11vPwlOOb+eaFv559Lbls/IQ1aXGtf71tKTsGvs1A/0dae/wG91/scQ70KHy3HwkL+GLDF+b5+b38jP+eQXF53kXtmtL+Dy4V86vdQ3I/TLDYPV+rGpb9N/y/K68azv4ZmtB7j/kXcvKPUX+DyQ6Ej7KH27u/eM7OT5XJcNA
+  </data>
+ </layer>
+</map>

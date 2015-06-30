@@ -1,0 +1,6 @@
+TODO as of 30 Jun 2015
+- Create all missing original levels.
+- Externalize gameplay values to json.
+- Optimize level tiles rendering (quads culling and/or cached bitmaps).
+- Lives & scoring.
+- Proceduraly generated levels.

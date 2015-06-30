@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="15"/>
+  <property name="name" value="Cave G. Amoeba"/>
+  <property name="theme" value="GREEN"/>
+  <property name="timer" value="120"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNV0EOgzAMY08q4wK3HTny/89sh1aKLNs0BW07RKAupE7sJNo8TdP857Z9rNRnfF+rbcSif/R5CN8Wq4D/CvFKeG/42F0Mb4Fzlo+KEb9n+A4Sr+FzNWq+u8GYwbckLPLL8uipneKb1UjFVecNXyanxdSoTJxDpwmXwxP4xbg9PaHyRx93vov7UH8ZfErn2Rrhb1EbUX8qf9cPmRo53Ffwsf50dymuEANqlnER55/jzmE/603X89HHzb8znav7enBk9gbWFfnFPO6oUdRw715rxubziM5H9lrPTGT9gViu4Ovh0HGj8LmclA6dxlw89Im5OXxMF3E2ZThkGFge6Bfny+hey/QOasXdOYrvG3uN9ccdu/9VjdVOaTmL76h+O4lxR43U/jtIjF//7+mxN0Oqvfc=
+  </data>
+ </layer>
+</map>

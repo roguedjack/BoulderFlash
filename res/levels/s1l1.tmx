@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="12"/>
+  <property name="name" value="Cave A. Intro"/>
+  <property name="theme" value="DEFAULT"/>
+  <property name="timer" value="150"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNV0EOwyAMY0+i26X9Bf//zFRpSFHkOE5XiR6idhASY4fQba217eF2BNbN+/g9dzdubTfPIcb1a61ZfOf8K/BjcRlOljuKZccz/tjaaB87mGd7VvizMZVYWc4Mm8IvwtcL+LzvVY4Q7/Md6atoqOSs7pnh+yyyrCYsf/48Wf8BfNA5yMz2KKX/eH2jNREGpd9MvZR69WOo/lCMCkcoZyexmfn+XOEOcZT52vmJGWmG6m+Atda3Ez2je43lRr99nfvzcYeOVQ1Zzav326r+M/FVuPN+ioaKtux8PO1eO+3d4v58172GzpPnm32bRPVX1aHCEbs3FHxRb1H2+y8+nyfqf8hfGY/8rn4Prv7fo9gXU8TB0g==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="10"/>
+  <property name="name" value="Cave H. Enchanted wall"/>
+  <property name="theme" value="BLUE"/>
+  <property name="timer" value="120"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNVkEOwzAIy57UrjtkP8ix///MNmlIyLKBRD30gNZmCRhjQvfW2n5z2772/lt3zxv84nMna49gj1r3Mb0/w+f3d7KfncVc2DvuV3t+dgIGw/ckObB8ojiMR4xldkyY58/noeowRO6KE8xJnWW5dIdvJqejwBFqN8Kp6ubxKT+zOmc4TDuZrlmerL6qn0abw83iIkaG168hvkjnDHekMdZPWR+iMf7QnzqL+hrAD9OKylGtGT6lc4/hyjtR+UKtRPxVaquwRjVcvf9W5sbV/Y65rd5/FS6rc83/hxyp/kVN+7Uz4bE6x1fwRTXEWK/EqlqN9Ir9G/UC+mD7cHZn87eKr6pzhjebG2y2oU/EaO84f6t31czsr8wN9f2G9Z2d/ahtxnNWQ6UF5I/l4mNX8SmNMV1Wvw/ubB8BKb5/
+  </data>
+ </layer>
+</map>

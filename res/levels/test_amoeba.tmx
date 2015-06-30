@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="18"/>
+  <property name="name" value="TEST Amoeba"/>
+  <property name="theme" value="GREEN"/>
+  <property name="timer" value="120"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlsEKgCAMQNcnaV701rFP6P9/JAWFMdwgqrnCw0OZOzy2KXoA8JPbhA7SmZT/ll/KbHWlfiXuKgHtcUzDr0H9nLBa8+vVUcOvEOHa/PXynyahOiSG5uGYXA0/zq2d0X4GFB/lR+8p9ttBZ/7WzCK44B5itN4Xrq9SXb/gh9+dkX49opH6SXfZQv04rMzfH/wOo36a/7/JPzkBSFywmA==
+  </data>
+ </layer>
+</map>

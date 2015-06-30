@@ -1,0 +1,16 @@
+DOC as of 30 Jun 2015
+
+Notable differences from original game
+
+GAMEPLAY
+- Monster patterns not reproducted perfectly but the tactics are the same.
+- Amoeba and MagicWall timers are not parameters of the map but the same value for all levels.
+- Amoebas growth rate is based on a slightly randomized timer, not a random roll each frame.
+  All cells tend to grow together.
+
+GFX
+- Trapped amoeba are not animated, so their trapped state is clearly visible.
+
+SFX
+- Amoeba only make sounds when growing.
+- MagicWall only make sounds when activated/deactivated.

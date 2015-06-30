@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="4"/>
+  <property name="name" value="Cave E. Guards"/>
+  <property name="theme" value="DEFAULT"/>
+  <property name="timer" value="150"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJwzYmBgMBrkmBGIrQYhhrlvoN0x6r5R9w1GPBzcZwjFngMgT4r7DAdAnlj3BRIwn1bywyH9jbqPMveN5t/R/DuQ6W/UfUPXfcZIbhysGAAZfcKh
+  </data>
+ </layer>
+</map>

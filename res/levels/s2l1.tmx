@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="10"/>
+  <property name="name" value="Cave B. Rooms"/>
+  <property name="theme" value="RED"/>
+  <property name="timer" value="150"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzVV1sOwyAMY0ei44feYJ/c/zJbpUWNLOdBV6ndR9SqQHCcxNCllLLc3NaP9e8T3xv5ttmAcbEK8xtZuxL/skbP1fgy69G62l/8VrJefxsJ/+JL8NWbmuDDmFh8LEedjGuuKsmfVx+9cP4y+Z3Bx+rXyqFVvxpfO9Hqib4s/nS9W/mx+KmF88u4i/id7V/szQhf1J9Ynxa+q/s06l9Lm6P4Wf4z/Oke9vSb4fP6i8Vh5Vf62MMn63F/pi9WDOg/4vcIPtQkxHd3fdH9tNnL4UfHx/ix6m+bO4gPj19PX47cP4aBDzXRwi/Pf74fSKwRf5gfdj9g53NGv37JL951WP15+pjRB9FRjQ/3Zfrg+X+Uvf4YPnY2zuBje+P5yOpcxp8Gjtn+1z6u/u/J2BvVyruz
+  </data>
+ </layer>
+</map>

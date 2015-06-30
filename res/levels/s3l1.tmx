@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="24"/>
+  <property name="name" value="Cave C. Maze"/>
+  <property name="theme" value="GREEN"/>
+  <property name="timer" value="150"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNV1sOwyAMY1fa+KG34P6XWSc1kufZgT6k7iNaaQNx7ATYs5Ty/HNrqy2r1c3iudG3BayBD75byNQ89sH1Ps99+w184fMQPg5fLd/5oI/CoPJgP+aG8amcG2Cd5Yh9a/nlWlkl/8DXRZxY70oNmbvMD/FlGjou3PuexDyD7w6O8FsXuXP9jThS8VTt7eFIxY4x4+NYmVbc364POC5/5zGuy/WX6cqc7sWHc2brHPlz2rJuqqc57oijEW9cf46jWXxKwyv2AuSP9/7RuXFVv1cR+wi+IxoyrlFfc06sL8Y5whH3O+ac1Y2qi27wOQ2ZR8eb2wua8c9yZnxqv5ut5dHZfwbfFXU+U19qzawPs/tpxp1a7ww+d397FV1/sxxl55/aj1UfxlidLe7+4vjZg8/pEHPwvHD37rv/98zYG3rMwfk=
+  </data>
+ </layer>
+</map>

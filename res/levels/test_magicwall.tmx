@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="12"/>
+  <property name="name" value="TEST Magic Wall"/>
+  <property name="theme" value="DEFAULT"/>
+  <property name="timer" value="60"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJztlTEOgDAIReuRrHFo738w62DiwKeogAwMLyQNpC+k0FpKqcFZBuugB+Py64xfA/zhR4FqJTmafhIPyin9+Jwd4O2H+iTBy8/qnvSL6xdpPz+ptZ4NqR83s+nH77/znNvP1juR6h8VZ/1DUduvgUiBci39qJzZ/4verJffG6z8NPnqtt38InMA46G+hw==
+  </data>
+ </layer>
+</map>

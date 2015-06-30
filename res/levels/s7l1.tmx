@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="4"/>
+  <property name="name" value="Cave F. Firefly dens"/>
+  <property name="theme" value="RED"/>
+  <property name="timer" value="150"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzNl0sOgzAMRNMjlXYTbsCS+1+GLhopsib2TIopC4uPLPwyEztiKaUsN483EauJaq72fhQth6nZ8z2DiOoiBu9dVA/x7Z/YAj5Go1Fu/4xqbF8GxMf6q3h4B389jbz8LH8VjaqTl+GvV0/ly/YXzRekraJfhr8KX3b/9n5FGkV9k+GvwhfFlf07MxOz5rM6+0brUPxl9v4v58aM/9XhU/b9aB2etiyv5WN5WG+v4FO8Ys4N5XuNr+U8RE3O4kPavoB+Z2qkeoHye/1UP2Y9tP3jMf77v4eJA/CxvcE=
+  </data>
+ </layer>
+</map>

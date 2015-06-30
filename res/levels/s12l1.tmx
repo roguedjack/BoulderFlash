@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="22" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="diamondsRequired" value="12"/>
+  <property name="name" value="Cave J. Tracks"/>
+  <property name="theme" value="BLUE"/>
+  <property name="timer" value="150"/>
+ </properties>
+ <tileset firstgid="1" name="c64_sprites" tilewidth="32" tileheight="32">
+  <image source="../images/c64_sprites.png" width="256" height="384"/>
+ </tileset>
+ <layer name="tiles" width="40" height="22">
+  <data encoding="base64" compression="zlib">
+   eJzllk0KACEIRp0j1cyqG7Ts/peZVSDSj4aW0OIjIqvHo6gIANF5kjDPwpyVVL5PmMCo0eajY2VxzWLIh93UvtRfAlu+TPpcjwXO8LU8tvzR+t18PY8tbyf4sEfsr1dnzRcGbZiM7+AbtZlRd7u/0fmb3dub729vP857e4LP2/tB95FmF5+3/4t2NPk01rKId74XMXrND2BqwJg=
+  </data>
+ </layer>
+</map>
